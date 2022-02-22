@@ -42,6 +42,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: enviroment
+    uniqueID: 3042486571
+    locked: 0
   - name: floor
     uniqueID: 1964319995
     locked: 0
